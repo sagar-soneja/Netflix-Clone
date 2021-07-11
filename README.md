@@ -7,7 +7,7 @@ Reactjs\
 TMDB Api
 
 # ScreenShot
-![alt text](https://github.com/sagar-soneja/Netflix-Clone/blob/main/pic/netflix%20front.png)\
+![alt text](https://github.com/sagar-soneja/Netflix-Clone/blob/main/pic/netflix%20front.png)\\\
 ![alt text](https://github.com/sagar-soneja/Netflix-Clone/blob/main/pic/netflix%20full.png)
 # Getting Started with Create React App
 
