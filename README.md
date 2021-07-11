@@ -1,3 +1,7 @@
+# Netflix Clone
+This is netflix UI clone.
+[Demo](https://netflix-clone-ss.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
