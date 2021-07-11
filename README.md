@@ -1,6 +1,6 @@
 # Netflix Clone
 This is netflix UI clone.\
-[Demo](https://netflix-clone-ss.netlify.app/)\
+[Demo](https://netflix-clone-ss.netlify.app/)
 
 # Technologies Used
 Reactjs\
