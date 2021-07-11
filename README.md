@@ -1,9 +1,9 @@
 # Netflix Clone
 This is netflix UI clone.\
 [Demo](https://netflix-clone-ss.netlify.app/)\
-\
+
 # Technologies Used
-Reactjs
+Reactjs\
 TMDB Api
 
 # Getting Started with Create React App
