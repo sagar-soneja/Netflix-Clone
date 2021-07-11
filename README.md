@@ -6,6 +6,9 @@ This is netflix UI clone.\
 Reactjs\
 TMDB Api
 
+# ScreenShot
+![alt text](https://github.com/sagar-soneja/Netflix-Clone/blob/main/pic/netflix%20front.png)\
+![alt text](https://github.com/sagar-soneja/Netflix-Clone/blob/main/pic/netflix%20full.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
